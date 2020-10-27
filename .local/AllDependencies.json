@@ -1605,9 +1605,9 @@
     "restore": {
       "projectUniqueName": "Sorting Annual Reports",
       "projectName": "Sorting Annual Reports",
-      "projectPath": "C:\\Users\\rajat\\Documents\\rpa_exercise\\Sorting Annual Reports\\.local",
+      "projectPath": "C:\\Users\\rajat\\Documents\\sorting-annual-reports\\.local",
       "packagesPath": "C:\\Users\\rajat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rajat\\Documents\\rpa_exercise\\Sorting Annual Reports\\.local"
+      "outputPath": "C:\\Users\\rajat\\Documents\\sorting-annual-reports\\.local"
     },
     "frameworks": {
       "net461": {
