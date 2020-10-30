@@ -17,8 +17,6 @@ This repository contains robot process automation workflow for automating the ta
 
 ### After
 
-![alt-txt](./doc/images/before.png)
-
 ![alt-txt](./doc/images/folder.png)
 
 ![alt-txt](./doc/images/2018.png)
